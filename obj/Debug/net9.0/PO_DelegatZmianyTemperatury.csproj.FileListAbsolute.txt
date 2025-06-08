@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\bin\Debug\net9.0\PO_DelegatZmianyTemperatury.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\bin\Debug\net9.0\PO_DelegatZmianyTemperatury.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\bin\Debug\net9.0\PO_DelegatZmianyTemperatury.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\bin\Debug\net9.0\PO_DelegatZmianyTemperatury.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\bin\Debug\net9.0\PO_DelegatZmianyTemperatury.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\refint\PO_DelegatZmianyTemperatury.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\PO_DelegatZmianyTemperatury.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_DelegatZmianyTemperatury\obj\Debug\net9.0\ref\PO_DelegatZmianyTemperatury.dll
